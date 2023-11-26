@@ -1,0 +1,4 @@
+[2023-11-26T01:30:47.399369+01:00] MEUAPP.INFO: Testando Monolog [] []
+[2023-11-26T03:54:41.911007+01:00] MEUAPP.INFO: Testando Monolog [] []
+[2023-11-26T03:54:46.625957+01:00] MEUAPP.INFO: Falha ao obter conexão! [] []
+[2023-11-26T03:54:46.627457+01:00] MEUAPP.INFO: SQLSTATE[HY000] [2002] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente [] []
