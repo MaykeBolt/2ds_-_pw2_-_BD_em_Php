@@ -5,9 +5,10 @@ namespace App\Persistence;
 use App\SystemServices\MonologFactory;
 
 class ConnectionFactory{
-    static $dbuser=''; //Perguntar sobre aonde conseguir o BD: Azure, Xampp? PhpMyAdmin?
-    static $dbhost='';
-    static $dbname='';
+    //"create database sussy","use sussy;","create table amogus(id int PRIMARY KEY not null);","insert into amogus values (1);","use sussy;","select * from amogus;"
+    static $dbuser='root'; //Perguntar sobre aonde conseguir o BD: Azure, Xampp? PhpMyAdmin?
+    static $dbhost='localhost';
+    static $dbname='sussy';
     static $password="";
     static $pdo;
 
